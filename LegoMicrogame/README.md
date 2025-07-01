@@ -1,0 +1,3 @@
+This was a tutorial level created for a design class using a built-in Unity tutorial. With an emphasis on design, the focus of this project was customization using the Lego package, which makes it possible to "click" pieces together and use special Lego pieces to create different effects.
+
+The goal of the project was to experiment with different game types, switching between different end-game goals and switching a variety of effect-causing pieces. All of the effects and events that occur in this game can be created using C# code, but the Lego package makes design simple and approachable for non-programmers.
