@@ -1,0 +1,3 @@
+Play Therapy was a project created at a 24-hour Hackathon hosted by Colorado State University. Our team was tasked with using VR to enhance child therapy sessions. We created a demonstration of a play therapy space meant for online use between a real therapist and a child patient.
+
+This was a very early Unity project for me, and the other four members of my team had little or no Unity experience. We created this space in less than 24 hours, including interactive hands that could potentially manipulate virtual toys in the space. The idea was to replicate a realistic play therapy session to make mental health treatment more accessible for children in rural areas.
